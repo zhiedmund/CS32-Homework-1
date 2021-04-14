@@ -10,8 +10,8 @@
 
 #include <iostream>
 // When you turn in the project, have the type alias in Set.h specify the item type to be std::string.
-//using ItemType = std::string;
-using ItemType = unsigned long;
+using ItemType = std::string;
+//using ItemType = unsigned long;
 const int DEFAULT_MAX_ITEMS = 150;
 
 class Set
