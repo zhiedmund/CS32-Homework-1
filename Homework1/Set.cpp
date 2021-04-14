@@ -21,7 +21,7 @@ int Set::size() const {
 
 bool Set::insert(const ItemType& value) {
     bool isPresent = false;
-    // return false if set already has a fixed capacity & is ffull
+    // return false if set already has a fixed capacity & is full
     if (setSize == DEFAULT_MAX_ITEMS) {
         return false;
     }

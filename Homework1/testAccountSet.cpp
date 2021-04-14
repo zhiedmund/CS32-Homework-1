@@ -24,7 +24,7 @@ int main() {
     assert(account.size() == 3);
     account.add(3);
     assert(account.size() == 4);
-    cout << "All test cases passed!" << endl;
+    cerr << "All test cases passed!" << endl;
     // prints 4, 3, 2, 1
     account.print();
 }

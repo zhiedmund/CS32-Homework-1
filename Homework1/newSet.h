@@ -8,7 +8,6 @@
 #ifndef newSet_h
 #define newSet_h
 
-#include <stdio.h>
 #include <iostream>
 
 using ItemType = std::string;

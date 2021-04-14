@@ -8,7 +8,6 @@
 #ifndef AccountSet_h
 #define AccountSet_h
 
-#include <stdio.h>
 #include "Set.h"
 
 class AccountSet {
